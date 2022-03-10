@@ -99,3 +99,8 @@ main {
     align-items: center;
     border-radius: 4px;
 }
+
+.dsmovie-form-container { 
+    padding: 40px 0px;
+    max-width: 480px;
+}
